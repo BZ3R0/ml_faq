@@ -53,3 +53,5 @@ apt-get install virtualenv python3.4 python3-dev python-dev gcc libpq-dev libmys
 7. **Url para acessar a aplicação**
 
     http://localhost:5000
+# ml_faq
+Its about a faq with machine learning
