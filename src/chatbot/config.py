@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+DEBUG = True
+
+SECRET_KEY = 'w4\x06\x12\x94\\t\xb3\xe0@\x13>\xea\xa49\x97\x92av\xc0*\xe9x}'
+
+# Facebook Tokens
+FB_ACCESS_TOKEN = 'EAAa1HlBRxaQBANs6R38KfUsgW1bgqXIpDxzZA7gNPb3aNkQG9PiPAswOc9hZBHX9LFxjT6G9GkF8ashykXF5HZB8ZCIl4X9JXAmw58oDCrGY1MsdlPCZC3KJ6dT05Pq9L6DsY8TbVvFq3i0FWcInZAmU4FhZCpoLKddCHdZBxnjhEQZDZD'
+FB_VERIFY_TOKEN = 'Igsvizc1oMcPc'
+
+# SQLALCHEMY
+SQLALCHEMY_TRACK_MODIFICATIONS = True
+SQLALCHEMY_DATABASE_URI = 'mysql://root:root@localhost/chatbotdb'
